@@ -1,0 +1,39 @@
+header img{
+    width: 50px;
+}
+header .nav ul li{
+    display: inline-block;
+}
+header .nav ul li a{
+    display: inline-block;
+    text-decoration: none;
+    padding-right: 20px;
+    color: #a1acb4;
+}
+header .nav ul li:first-child a{
+    color: #000;
+}
+a{
+    text-decoration: none;
+}
+section img{
+    height: 500px;
+}
+.tom button{
+    color: dodgerblue;
+    background: #f7f7f7;
+    font-size: 20px;
+    font-weight: 600;
+}
+.tom h2{
+    border: 1px solid #d7d7d7;
+}
+.scrollspy-example{
+    position: relative;
+    height: 150px;
+    overflow: auto;
+}
+footer{
+    background: #17a2b8;
+    color: aliceblue;
+}
